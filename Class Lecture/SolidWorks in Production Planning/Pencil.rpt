@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Pencil.SLDASM
+Receiving System Product I.D.: Pencil.SLDASM
+File Name                    : G:\Github Tanmoy Das\Operations-Management\Class Lecture\SolidWorks in Production Planning\Pencil.IGS
+Sending System               : SolidWorks 2013
+Preprocessor Version         : SolidWorks 2013
+File Creation Date           : 180722.223021
+Model Creation Date          : 180722.223021
+Units                        : MM
+Model Space Scale            : 1
+Author                       : USER
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                      4
+  Average number of significant digits:                1.87755
+  Maximum distance to origin:                          960.086
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                    4
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             40        40
+102  Composite curve                                 56        56
+110  Line                                            76        76
+120  Surface of revolution                           10        10
+124  Transformation matrix                           22        22
+126  Rational B-spline curve                         96        96
+128  Rational B-spline surface                       14        14
+142  Curve on a parametric surface                   28        28
+144  Trimmed parametric surface                      24        24
+308  Subfigure definition                             4         4
+314  Color definition                                 4         4
+408  Singular subfigure instance                      4         4
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       4
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, July 22, 2018 22:45:49
+Finish time: Sunday, July 22, 2018 22:45:51
+Processing time: 0 days, 00 hours, 00 mins, 02 secs
